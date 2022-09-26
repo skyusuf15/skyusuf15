@@ -6,11 +6,12 @@ Software Engineer | Backend Engineer ⚡️
 
 Technologies I work with: 
 - PHP/Laravel 
-- Javascript #jquery #nodejs #nestjs
+- Javascript/TypeScript #jquery #nodejs #nestjs
 - Python/Flask
 - SQL #mysql #mssql
 - RabbitMQ
 - Elasticsearch
+- gRPC
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/skyusuf15) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/7270107/yusuf-sanusi)
 
