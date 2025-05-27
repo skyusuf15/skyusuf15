@@ -8,7 +8,7 @@ Technologies I work with:
 - PHP/Laravel 
 - Javascript/TypeScript #jquery #nodejs #nestjs
 - Python/Flask
-- SQL #mysql #mssql
+- SQL #mysql #mssql #postgresDB
 - RabbitMQ
 - Elasticsearch
 - gRPC
