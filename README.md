@@ -2,7 +2,6 @@
 
 Senior Software Engineer | Senior Backend Engineer ⚡️ 
 
-<!--Contributing to the Flutter/Dart ecosystem through contents, tutorials and toolings. -->
 
 Technologies I work with: 
 - PHP/Laravel 
