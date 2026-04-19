@@ -1,7 +1,4 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500" alt="Banner" width="100%">
-</p>
 
 <!-- Title & Intro -->
 <h1 align="center">Hi there 👋, I'm Yusuf Sanusi</h1>
